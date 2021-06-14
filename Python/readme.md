@@ -1,0 +1,1 @@
+Find and element in an array through Linear search.
