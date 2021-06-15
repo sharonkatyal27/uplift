@@ -1,4 +1,6 @@
 Find and element in an array through Linear search.
+
+
 #include<iostream>
 using namespace std;
 int main()
